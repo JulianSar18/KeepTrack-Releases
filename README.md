@@ -9,7 +9,7 @@ La aplicacion que permite ver y crear reportes sobre incidentes de seguridad en 
 
 Para obtener la última versión de la aplicación:
 
-1.  Dirígete a la sección de [Releases](https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest).
+1.  Dirígete a la sección de [Releases](https://github.com/JulianSar18/KeepTrack-Releases/releases).
 2.  Busca el archivo con extensión `.apk` en los activos (Assets).
 3.  Descárgalo en tu dispositivo móvil.
 4.  Abre el archivo y sigue las instrucciones de instalación. 
